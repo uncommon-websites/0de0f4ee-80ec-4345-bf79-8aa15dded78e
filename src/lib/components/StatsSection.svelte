@@ -1,24 +1,24 @@
 <script lang="ts">
   const stats = [
     {
-      label: "30+ People",
-      desc: "You're a small, but mighty team of curious problem-solvers and explorers. With a versatile, Swiss-knife mentality, we thrive on tackling diverse challenges. Our core team is tight-knit, yet we seamlessly tap into a wider network of experts when needed. Here, theory meets practice, and together, we get things done.",
-      img: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&q=80&w=200"
+      label: "37+ Years",
+      desc: "Since 1987, we've been serving our community with integrity and expertise. Three generations of the founding family have grown this dealership from a small lot to a trusted automotive destination. Our longevity speaks to our commitment to doing business the right way.",
+      img: "/generated/image-happy-family-of-three-generations-standi-1765523539778-1.webp"
     },
     {
-      label: "14+ Awards",
-      desc: "Our work speaks for itself—recognized internationally, we've already earned some awards. These accolades reflect the passion and innovation we pour into every project, pushing boundaries and delivering results that make an impact.",
-      img: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&q=80&w=200"
+      label: "15,000+ Vehicles Sold",
+      desc: "Over fifteen thousand families have trusted us with their vehicle needs. Each sale represents a relationship built on transparency, fair pricing, and genuine care. Our customers return generation after generation because we deliver on our promises.",
+      img: "/generated/image-satisfied-customers-receiving-keys-to-th-1765523543898-3.webp"
     },
     {
-      label: "CGN, BLN, Remote",
-      desc: "Headquartered in Cologne, with an expanding team in Berlin, we also embrace remote work. Our colleagues span across cities like Barcelona, Stuttgart, Munich, and more, bringing a mix of perspectives and expertise to everything we do. Whether in the office or working remotely, we stay connected and collaborative.",
-      img: "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=200"
+      label: "98% Satisfaction",
+      desc: "Our customer satisfaction rating isn't just a number—it's a reflection of our dedication to service excellence. From your first visit to years of maintenance, we're committed to exceeding expectations at every touchpoint. Your satisfaction is our success.",
+      img: "/generated/image-professional-car-salesperson-consulting--1765523541880-2.webp"
     },
     {
-      label: "B-Corp",
-      desc: "We've officially joined the ranks of B-Corp certified companies. This means we meet the highest standards of social and environmental performance, accountability, and transparency. We're proud to use business as a force for good, ensuring our impact extends beyond just profit.",
-      img: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/B_Corp_Logo.svg/1200px-B_Corp_Logo.svg.png" // Placeholder
+      label: "3 Generations",
+      desc: "Grandfather, father, and son—three generations working together under one roof. This multi-generational expertise means we combine time-tested wisdom with modern innovation. When you work with us, you get the benefit of decades of automotive knowledge.",
+      img: "/generated/image-happy-family-of-three-generations-standi-1765523539778-1.webp"
     }
   ];
 </script>
@@ -26,7 +26,7 @@
 <section class="py-24 px-6 md:px-12 bg-white border-t border-gray-100">
   <div class="mb-16">
     <p class="text-gray-500 max-w-xl">
-      Curious about who we are? Here's a snapshot of the team, our achievements, and the milestones we're proud of.
+      Numbers tell a story. Here's a snapshot of our legacy, our commitment, and the trust our community has placed in us over the decades.
     </p>
   </div>
 

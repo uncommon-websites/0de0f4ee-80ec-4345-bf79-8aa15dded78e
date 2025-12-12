@@ -1,28 +1,28 @@
 <script lang="ts">
   const photos = [
     {
-      title: "Fitness Meets Work",
-      desc: "Stay healthy with our dedicated gym and personal training part of our employee wellness program.",
-      img: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&q=80&w=400"
+      title: "State-of-the-Art Service",
+      desc: "Our modern service center features the latest diagnostic equipment and certified technicians dedicated to your vehicle's care.",
+      img: "/generated/image-clean-modern-car-service-center-with-tec-1765523546108-4.webp"
     },
     {
-      title: "Your Social Hub",
-      desc: "Located in vibrant city centers, our offices are places for connection and face-to-face collaboration.",
-      img: "https://images.unsplash.com/photo-1527192491265-7e15c55b1ed2?auto=format&fit=crop&q=80&w=400"
+      title: "Comfortable Experience",
+      desc: "Relax in our customer lounge with complimentary refreshments, WiFi, and comfortable seating while we service your vehicle.",
+      img: "/generated/image-comfortable-customer-waiting-area-in-car-1765523548269-5.webp"
     },
     {
-      title: "Fueling Creativity",
-      desc: "We care about good food—our in-house chef ensures everyone stays energized and inspired.",
-      img: "https://images.unsplash.com/photo-1511632765486-a01980e01a18?auto=format&fit=crop&q=80&w=400"
+      title: "Expert Technicians",
+      desc: "Our ASE-certified technicians bring decades of combined experience and treat every vehicle with meticulous attention to detail.",
+      img: "/generated/image-professional-automotive-technician-inspe-1765523550306-6.webp"
     }
   ];
 </script>
 
 <section class="py-24 px-6 md:px-12 bg-white">
   <div class="max-w-xl mb-16">
-    <h3 class="text-lg font-bold mb-2">We focus on people, not just projects.</h3>
+    <h3 class="text-lg font-bold mb-2">We focus on experience, not just transactions.</h3>
     <p class="text-gray-500 text-sm leading-relaxed">
-      In a world of digital meetings, we value face-to-face connections. Our culture is built on trust, freedom, and support, fostering personal growth and collaboration that goes beyond just completing tasks—it's about enjoying the journey together.
+      From our modern showroom to our service center, every detail is designed with you in mind. We've created a welcoming environment where you can make informed decisions, relax during service visits, and trust that your vehicle is in expert hands.
     </p>
   </div>
 

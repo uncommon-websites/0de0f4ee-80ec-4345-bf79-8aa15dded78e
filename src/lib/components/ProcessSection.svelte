@@ -4,30 +4,30 @@
   const steps = [
     {
       id: "discover",
-      title: "Discover Novel Opportunities",
-      text: "The right problem is the one worth solving. We quickly uncover actionable opportunities through data and business insights, ensuring that every discovery is grounded in what matters most for your business and your users.",
-      tags: ["Business & Market Research", "Data Driven Insights", "UX Audits", "Customer Journey Mapping", "Brand Perception Analysis", "Technical Assessment"],
+      title: "Find Your Perfect Vehicle",
+      text: "Your journey starts with understanding your needs. We listen to your lifestyle, budget, and preferences to help you discover the right vehicle—whether new or pre-owned. Our extensive inventory and expert knowledge ensure you find exactly what you're looking for.",
+      tags: ["New & Used Inventory", "Expert Consultation", "Vehicle Comparisons", "Test Drives", "Budget Planning", "Trade-In Evaluation"],
       graphic: "lines"
     },
     {
       id: "envision",
-      title: "Envision Innovative Strategies",
-      text: "Great strategies don't just come from ideas—they come from clear, actionable plans. We create pragmatic roadmaps that balance ambition with feasibility, focusing on what will drive immediate and long-term impact for both business and users.",
-      tags: ["CX & Product Strategy", "Vision & Roadmapping", "Value Proposition Design", "Northstar Metric Framework", "Brand Strategy & Positioning", "Technical Solution Design"],
+      title: "Secure Flexible Financing",
+      text: "Great vehicles deserve great financing. We work with multiple lenders to find competitive rates and flexible terms that fit your budget. Our transparent process means no surprises—just straightforward financing that makes ownership possible.",
+      tags: ["Competitive Rates", "Multiple Lenders", "Flexible Terms", "Credit Solutions", "Transparent Process", "Pre-Approval Options"],
       graphic: "curve"
     },
     {
       id: "build",
-      title: "Build Engaging Touchpoints",
-      text: "We turn strategy into action—fast and efficiently. Whether designing intuitive interfaces, visual identities, or building scalable platforms, we focus on building holistic experiences that are both joyful and effective.",
-      tags: ["UX & UI Design", "Information Architecture", "App & Web Design", "Design Systems", "Content Strategy", "Agile Software Engineering"],
+      title: "Complete Your Purchase",
+      text: "We make buying a car simple and stress-free. Our streamlined process handles all the paperwork, registration, and details so you can focus on the excitement of your new vehicle. We're with you every step until you drive away.",
+      tags: ["Simple Paperwork", "Registration Assistance", "Insurance Guidance", "Warranty Options", "Delivery Coordination", "Keys in Hand"],
       graphic: "circle-top"
     },
     {
       id: "elevate",
-      title: "Elevate Delivery Capabilities",
-      text: "We make sure teams can deliver better outcomes, faster. By evolving collaborative workflows, upskilling teams, and implementing the right tools, we help you scale with confidence and consistency.",
-      tags: ["AI Consulting", "QA & Delivery", "Process Optimization", "Performance Analytics", "Continuous Improvement", "Change Management"],
+      title: "Maintain Your Investment",
+      text: "Our relationship doesn't end at purchase. We provide expert service and maintenance to keep your vehicle running perfectly for years to come. From routine maintenance to major repairs, our certified technicians treat your car like family.",
+      tags: ["Certified Technicians", "Routine Maintenance", "Genuine Parts", "Service Reminders", "Warranty Service", "Lifetime Support"],
       graphic: "circle-waves"
     }
   ];
@@ -71,7 +71,7 @@
       <div class="space-y-8">
         {#each steps as step, i}
           <div class="transition-opacity duration-500 {i === activeStep ? 'opacity-100' : 'opacity-30'}">
-            <p class="text-xl md:text-2xl font-light mb-1">People work with us to</p>
+            <p class="text-xl md:text-2xl font-light mb-1">Your journey with us</p>
             <h2 class="text-2xl md:text-3xl font-bold">{step.title}</h2>
           </div>
         {/each}
